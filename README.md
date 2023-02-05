@@ -1,9 +1,8 @@
-# US-Airline-Passenger-s-Sentiment-Analysis-IEEE-Conference-
+# US-Airline-Passenger-s-Sentiment-Analysis
 
 Description:
 In this project, I aim to analyze the sentiment of the tweets provided from the Twitter Airline Sentiment dataset by developing a machine learning pipeline involving the use of four classifiers (Random Forest, Logistic Regression, Multinomial Naive Bayes, and SVM) along with using Bag of Words(BoW) & Term Frequency- Inverse Document Frequency (TF-IDF). The performance of these classifiers is then evaluated using accuracy and F1 Scores.
 
-(NB: Written a conference paper (Accepted in IEEE ICECIT 2021) on applied methods. Project will be updated in GitHub with the Clean Code, Full Readme, Tutorial Article, and Presentation Video after publication. Maybe in October 2021)
 
 
 
